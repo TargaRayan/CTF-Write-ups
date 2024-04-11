@@ -25,7 +25,7 @@
 **الخطوة الثانية:** 
 نبدأ نسوي OSINT على اسم aleksandrnichole ...
 
-نلاحظ انه يوجد حساب في Instagram بأسم aleksandrnichole
+نلاحظ انه يوجد حساب في **Instagram** بأسم **aleksandrnichole**
 
 ![2](https://github.com/TargaRayan/CTF-Write-up/assets/160002524/7d1afc04-0b3b-4a4e-887a-ddec18cf01ae)
 
@@ -62,7 +62,7 @@
 
 ![5](https://github.com/TargaRayan/CTF-Write-up/assets/160002524/306c228a-8cac-41e3-8f9a-17852cee8273)
 
-بعدها ندخل ونبحث في page source
+بعدها ندخل ونبحث في **page source**
 
 ![6](https://github.com/TargaRayan/CTF-Write-up/assets/160002524/b2415790-ba6a-4b76-82ec-31298aa5ecde)
 
@@ -109,7 +109,7 @@
  `ajajajahhwhwhhw_1212.html` 
 
 
-الخطوة الأخيرة:
+**الخطوة الأخيرة:**
 الان نذهب الى **128.199.4.167** 
 ونضع المسار  **ajajajahhwhwhhw_1212.html** 
 `http://128.199.4.167/ajajajahhwhwhhw_1212.html`
